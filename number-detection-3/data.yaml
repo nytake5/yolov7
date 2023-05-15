@@ -1,0 +1,13 @@
+names:
+- number-of-bus
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: number-detection-s85cr
+  url: https://universe.roboflow.com/saratov-state-uni/number-detection-s85cr/dataset/3
+  version: 3
+  workspace: saratov-state-uni
+
+test: number-detection-3/test/images
+train: number-detection-3/train/images
+val: number-detection-3/valid/images
